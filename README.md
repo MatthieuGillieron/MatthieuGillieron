@@ -3,14 +3,14 @@
 ###
 
 
-### Me contactez
+### Me contactez :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matthieu-gillieron-developer) 
 
 ###
 
 ---
 
-### Languages et outils
+### Languages et outils :
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
