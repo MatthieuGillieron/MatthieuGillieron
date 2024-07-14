@@ -1,4 +1,4 @@
-<h1 align="center">Matthieu Gilliéron</h1>
+# Matthieu Gilliéron
 
 ###
 
