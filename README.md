@@ -1,6 +1,6 @@
 
 ### Me contactez
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](www.linkedin.com/in/matthieu-gillieron-developer)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](www.linkedin.com/in/matthieu-gillieron-developer/)
 
 
 ### Languages et outils
@@ -12,7 +12,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![GIT](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />)
+![GIT](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 
 ### Perfectionnement / apprentissage
 
