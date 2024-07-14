@@ -1,6 +1,6 @@
 
 ### Me contactez
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](www.linkedin.com/in/matthieu-gillieron-developer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matthieu-gillieron-developer) 
 
 
 ### Languages et outils
@@ -24,9 +24,11 @@
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
-### Divers projets
 
-[![IA]()
-[![OCR]()
-[![MOBILE_APP]()
-[![APPRENTISSAGE]()
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MatthieuGillieron&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuGillieron&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MatthieuGillieron&icon=0&color=0)](https://visitcount.itsvg.in)
