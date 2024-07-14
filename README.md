@@ -20,10 +20,15 @@
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Apple](https://img.shields.io/badge/-Apple-000?&logo=Apple)
+
 
 ---
 ###
