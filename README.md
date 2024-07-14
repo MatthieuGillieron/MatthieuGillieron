@@ -5,6 +5,7 @@
 ### Me contactez
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matthieu-gillieron-developer) 
 
+###
 
 ### Languages et outils
 
@@ -21,6 +22,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ###
+
+---
 
 <h3 align="left">Stats :</h3>
 
