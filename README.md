@@ -1,4 +1,6 @@
-### **Matthieu Gilliéron**
+<h1 align="center"><b>Matthieu Gilliéron</b></h1>
+
+<br>
 
 ##### Passionné par le code... mon objectif est de transformer les idées en solutions !
 
@@ -12,9 +14,11 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
+
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ---
