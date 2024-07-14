@@ -11,11 +11,14 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![DART](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />)
+
+
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![GIT](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
+
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ###
 
