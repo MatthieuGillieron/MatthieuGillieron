@@ -1,33 +1,23 @@
-### Matthieu Gilliéron
-##### Passioné par le code..  mon objectif  transformé les idées en solutions ! 
+### **Matthieu Gilliéron**
 
-###
+##### Passionné par le code... mon objectif est de transformer les idées en solutions !
 
-
-### Me contactez :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matthieu-gillieron-developer) 
+### Me contacter :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthieu-gillieron-developer)
 
 ---
-
-###
-
 
 ### Languages et outils :
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![DART](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />)
-
-
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![GIT](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
-
-
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ---
-
 ###
 
 <h3 align="left">Stats :</h3>
