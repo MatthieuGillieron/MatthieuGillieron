@@ -2,9 +2,10 @@
 
 <br>
 
-###### _Passionné par le code... mon objectif est de transformer les idées en solutions !_ 💻
-
-<br>
+<ul>
+  <li><sub><i>Passionné par le code et la mécanique ! 💻</i></sub></li>
+  <li><sub><i>Mon objectif : transformer les idées en solutions ! 💡</i></sub></li>
+</ul>
 
 ---
 
