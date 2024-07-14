@@ -1,7 +1,4 @@
 <h1 align="center">Matthieu Gilliéron</h1>
-
----
-
 ###
 
 ### Me contactez
