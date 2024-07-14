@@ -2,7 +2,7 @@
 
 <br>
 
-###### Passionné par le code... mon objectif est de transformer les idées en solutions !
+###### _Passionné par le code... mon objectif est de transformer les idées en solutions !_ 💻
 
 <br>
 
