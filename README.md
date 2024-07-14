@@ -2,7 +2,9 @@
 
 <br>
 
-##### Passionné par le code... mon objectif est de transformer les idées en solutions !
+###### Passionné par le code... mon objectif est de transformer les idées en solutions !
+
+<br>
 
 ### Me contacter :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthieu-gillieron-developer)
