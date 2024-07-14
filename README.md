@@ -1,7 +1,6 @@
 
-
 ### Me contactez
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](www.linkedin.com/in/matthieu-gillieron-developer)
 
 
 ### Languages et outils
