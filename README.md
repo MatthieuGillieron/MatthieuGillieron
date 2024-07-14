@@ -1,7 +1,6 @@
+<h1 align="center">Matthieu Gilliéron</h1>
 
-## Matthieu Gillieron
-
-___
+###
 
 ### Me contactez
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matthieu-gillieron-developer) 
@@ -37,5 +36,3 @@ ___
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=fr&hide_border=false&order=1&custom_title=Statistiques%20Github%20Matthieu%20Gilli%C3%A9ron%20:" height="200" alt="stats graph"  />
 </div>
-
-###
