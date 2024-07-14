@@ -12,7 +12,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![GIT](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
+![GIT](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 
 ### Perfectionnement / apprentissage
 
