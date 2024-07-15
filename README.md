@@ -38,6 +38,7 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=fr&hide_border=true&custom_title=Statistiques%20Github%20Matthieu%20Gilliéron" height="200" alt="stats graph"  />
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Matthieu Gillieron's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuGillieron&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </div>
