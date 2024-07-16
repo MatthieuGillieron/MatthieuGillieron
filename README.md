@@ -1,4 +1,4 @@
-### <h1 align="center"><b>Matthieu Gilliéron</b></h1>
+### align="center"><b>Matthieu Gilliéron</b>
 
 ____
 
