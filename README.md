@@ -1,4 +1,4 @@
-### <p align="center" style="font-size: 30px;"><b>Matthieu Gilliéron</b></p>
+### <p align="center" style="width="30px""><b>Matthieu Gilliéron</b></p>
 
 
 
