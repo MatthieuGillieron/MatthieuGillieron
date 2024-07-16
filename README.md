@@ -1,4 +1,4 @@
-<h1 align="center"><b>Matthieu Gilliéron</b></h1>
+<h3 align="center"><b>Matthieu Gilliéron</b></h3>
 
 ____
 
