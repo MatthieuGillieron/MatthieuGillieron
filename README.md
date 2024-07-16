@@ -2,9 +2,9 @@
 
 
 <ul>
-  <li><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></li>
-  <li><i>Mon objectif : transformer les idées en solutions ! 💡</i></li>
-  <li><i>Progression constante ! 📈🚀</i></li>
+<li><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></li>
+<li><i>Mon objectif : transformer les idées en solutions ! 💡</i></li>
+<li><i>Progression constante ! 📈🚀</i></li>
 </ul>
 
 ---
