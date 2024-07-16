@@ -1,9 +1,10 @@
 <h1 align="center">Matthieu Gilliéron</h1>
 
+
 <ul>
-  <li><sub><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></sub></li>
-  <li><sub><i>Mon objectif : transformer les idées en solutions ! 💡</i></sub></li>
-  <li><sub><i>Progression constante ! 📈🚀</i></sub></li>
+  <li><sub><i style="font-size: 18px;">Passionné par le code et la mécanique ! 💻 ⚙️</i></sub></li>
+  <li><sub><i style="font-size: 18px;">Mon objectif : transformer les idées en solutions ! 💡</i></sub></li>
+  <li><sub><i style="font-size: 18px;">Progression constante ! 📈🚀</i></sub></li>
 </ul>
 
 ---
