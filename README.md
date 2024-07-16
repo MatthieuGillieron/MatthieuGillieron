@@ -1,6 +1,7 @@
-<p style="text-align: center; font-size: 24px; font-weight: bold;">
+<p style="text-align: center; font-size: 44px; font-weight: bold;">
   Matthieu Gilliéron
 </p>
+
 ---
 
 <ul>
