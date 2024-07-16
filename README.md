@@ -8,7 +8,7 @@
 </ul>
 
 <ul>
-  <li ><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></li>
+  <li style="line-height: 15%;"><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></li>
   <li style="line-height: 150%;"><i>Mon objectif : transformer les idées en solutions ! 💡</i></li>
   <li style="line-height: 150%;"><i>Progression constante ! 📈🚀</i></li>
 </ul>
