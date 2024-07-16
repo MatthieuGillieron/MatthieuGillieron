@@ -1,5 +1,7 @@
-<h1 align="center"><b>Matthieu Gilliéron</b></h1>
-____
+<p style="text-align: center; font-size: 24px; font-weight: bold;">
+  Matthieu Gilliéron
+</p>
+---
 
 <ul>
   <li><sub><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></sub></li>
