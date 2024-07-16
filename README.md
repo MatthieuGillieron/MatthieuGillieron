@@ -2,17 +2,10 @@
 
 
 <ul>
-  <li><sub><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></sub></li>
-  <li><sub><i>Mon objectif : transformer les idées en solutions ! 💡</i></sub></li>
-  <li><sub><i>Progression constante ! 📈🚀</i></sub></li>
+  <li><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></li>
+  <li><i>Mon objectif : transformer les idées en solutions ! 💡</i></li>
+  <li><i>Progression constante ! 📈🚀</i></li>
 </ul>
-
-<ul>
-  <li style="line-height: 15%;"><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></li>
-  <li style="line-height: 150%;"><i>Mon objectif : transformer les idées en solutions ! 💡</i></li>
-  <li style="line-height: 150%;"><i>Progression constante ! 📈🚀</i></li>
-</ul>
-
 
 ---
 
