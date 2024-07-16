@@ -1,4 +1,6 @@
-<h1 align="center"><b>Matthieu Gilliéron</b></h1>
+### <h1 align="center"><b>Matthieu Gilliéron</b></h1>
+
+____
 
 <ul>
   <li><sub><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></sub></li>
