@@ -4,8 +4,9 @@
 <ul>
   <li><sub><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></sub></li>
   <li><sub><i>Mon objectif : transformer les idées en solutions ! 💡</i></sub></li>
-  <li><i>Progression constante ! 📈🚀</i></sub></li>
+  <li><sub><i>Progression constante ! 📈🚀</i></sub></li>
 </ul>
+
 ---
 
 ### Me contacter :
