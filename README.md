@@ -7,6 +7,13 @@
   <li><sub><i>Progression constante ! 📈🚀</i></sub></li>
 </ul>
 
+<ul>
+  <li style="line-height: 150%;"><sub><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></sub></li>
+  <li style="line-height: 150%;"><sub><i>Mon objectif : transformer les idées en solutions ! 💡</i></sub></li>
+  <li style="line-height: 150%;"><sub><i>Progression constante ! 📈🚀</i></sub></li>
+</ul>
+
+
 ---
 
 ### Me contacter :
