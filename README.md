@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 24px; font-weight: bold;">
+<div align="center" style="font-size: 54px; font-weight: bold;">
   Matthieu Gilliéron
 </div>
 
