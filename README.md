@@ -1,6 +1,5 @@
-<p align="center">
-  <b style="font-size: 28px;">Matthieu Gilliéron</b>
-</p>
+### <p align="center">Matthieu Gilliéron</p>
+
 
 
 ---
