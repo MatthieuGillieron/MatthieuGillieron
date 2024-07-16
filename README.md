@@ -8,9 +8,9 @@
 </ul>
 
 <ul>
-  <li style="line-height: 150%;"><sub><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></sub></li>
-  <li style="line-height: 150%;"><sub><i>Mon objectif : transformer les idées en solutions ! 💡</i></sub></li>
-  <li style="line-height: 150%;"><sub><i>Progression constante ! 📈🚀</i></sub></li>
+  <li style="line-height: 150%;"><i>Passionné par le code et la mécanique ! 💻 ⚙️</i></li>
+  <li style="line-height: 150%;"><i>Mon objectif : transformer les idées en solutions ! 💡</i></li>
+  <li style="line-height: 150%;"><i>Progression constante ! 📈🚀</i></li>
 </ul>
 
 
