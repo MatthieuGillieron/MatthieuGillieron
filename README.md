@@ -3,7 +3,7 @@
 
 <p><i>∙ Passionné par le code et la mécanique ! 💻 ⚙️</i></p>
 <p><i>∙ Mon objectif : transformer les idées en solutions ! 💡</i></p>
-<p><i>∙ Progression constante ! 📈🚀</i></p>
+<p><i>∙ Étudiant a 42 Lausanne ! 📈🚀</i></p>
 
 
 ---
