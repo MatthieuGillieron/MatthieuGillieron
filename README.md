@@ -44,7 +44,7 @@
     <a href="https://example.com/cursus-projects" target="_blank">
         <img src="images/42.png" alt="Projets Cursus" style="width: 45%; height: auto;">
     </a>
-    
+<div style="display: flex; justify-content: space-between;">
     <!-- Projets personnels -->
     <a href="https://example.com/personal-projects" target="_blank">
         <img src="images/projet.png" alt="Projets Perso" style="width: 45%; height: auto;">
