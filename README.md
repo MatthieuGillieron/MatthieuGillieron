@@ -37,15 +37,21 @@
 
 ---
 
-### Projets
+### Ma bibliothèque :
 
 <div align="left">
-    <div style="display: flex; justify-content: center;">
-        <a href="https://example.com/cursus-projects" target="_blank" style="display: inline-block; border: none; text-decoration: none; margin-right: 40px;"> <!-- Ajouter une marge à droite -->
-            <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; border: none; display: block;">
-        </a>
-        <a href="https://example.com/personal-projects" target="_blank" style="display: inline-block; border: none; text-decoration: none;">
-            <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; border: none; display: block;">
-        </a>
-    </div>
+    <table>
+        <tr>
+            <td style="padding-right: 40px;">
+                <a href="https://example.com/cursus-projects" target="_blank">
+                    <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; border: none;">
+                </a>
+            </td>
+            <td style="padding-left: 40px;">
+                <a href="https://example.com/personal-projects" target="_blank">
+                    <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; border: none;">
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
