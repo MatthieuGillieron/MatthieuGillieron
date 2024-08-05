@@ -32,9 +32,9 @@
 <br clear="both">
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&theme=midnight-purple&show_icons=true" alt="Matthieu Gillieron's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=swift&locale=fr&hide_border=true&order=1&custom_title=Statistiques%20Github%20Matthieu%20Gilli%C3%A9ron%20:" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthieuGillieron&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&order=2" height="197" alt="languages graph"  />
 </div>
-
 
 ---
 
