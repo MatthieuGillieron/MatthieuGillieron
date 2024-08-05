@@ -39,7 +39,7 @@
 
 ### Projets
 
-<div align="center">
+<div align="left">
     <table style="border-collapse: separate; border-spacing: 20px;">
         <tr>
             <td>
