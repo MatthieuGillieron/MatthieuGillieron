@@ -42,14 +42,14 @@
 <div align="left">
     <table style="border-collapse: collapse;">
         <tr>
-            <td style="padding-right: 40px; border: none;">
-                <a href="https://example.com/cursus-projects" target="_blank" style="display: block; border: none; text-decoration: none;">
-                    <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; display: block; border: none;">
+            <td style="padding: 0; border: none;">
+                <a href="https://example.com/cursus-projects" target="_blank" style="display: block; border: none;">
+                    <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; display: block; border: 0;">
                 </a>
             </td>
-            <td style="padding-left: 40px; border: none;">
-                <a href="https://example.com/personal-projects" target="_blank" style="display: block; border: none; text-decoration: none;">
-                    <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; display: block; border: none;">
+            <td style="padding: 0; border: none;">
+                <a href="https://example.com/personal-projects" target="_blank" style="display: block; border: none;">
+                    <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; display: block; border: 0;">
                 </a>
             </td>
         </tr>
