@@ -42,11 +42,12 @@
 <div style="display: flex; justify-content: space-between;">
     <!-- Projet de cursus -->
     <a href="https://example.com/cursus-projects" target="_blank">
-        <img src="https://via.placeholder.com/300x200.png?text=Projets+Cursus" alt="Projets Cursus" style="width: 45%; height: auto;">
+        <img src="images/42.png" alt="Projets Cursus" style="width: 45%; height: auto;">
     </a>
     
     <!-- Projets personnels -->
     <a href="https://example.com/personal-projects" target="_blank">
-        <img src="https://via.placeholder.com/300x200.png?text=Projets+Perso" alt="Projets Perso" style="width: 45%; height: auto;">
+        <img src="images/projet.png" alt="Projets Perso" style="width: 45%; height: auto;">
     </a>
 </div>
+ 
