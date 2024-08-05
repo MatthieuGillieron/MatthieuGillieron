@@ -1,10 +1,8 @@
 <h1 align="center">Matthieu Gilliéron</h1>
 
-
 <p><i>∙ Passionné par le code et la mécanique ! 💻 ⚙️</i></p>
 <p><i>∙ Mon objectif : transformer les idées en solutions ! 💡</i></p>
-<p><i>∙ Étudiant a 42 Lausanne ! 📈🚀</i></p>
-
+<p><i>∙ Étudiant à 42 Lausanne ! 📈🚀</i></p>
 
 ---
 
@@ -18,26 +16,37 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
-
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Apple](https://img.shields.io/badge/-Apple-000?&logo=Apple)
 
-
 ---
-###
-
 
 ### Quelques statistiques :
 
 <br clear="both">
 
 <div align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Matthieu Gillieron's Github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Matthieu Gillieron's Github stats">
+</div>
+
+---
+
+### Projets
+
+<div style="display: flex; justify-content: space-between;">
+    <!-- Projet de cursus -->
+    <a href="https://example.com/cursus-projects" target="_blank">
+        <img src="https://via.placeholder.com/300x200.png?text=Projets+Cursus" alt="Projets Cursus" style="width: 45%; height: auto;">
+    </a>
+    
+    <!-- Projets personnels -->
+    <a href="https://example.com/personal-projects" target="_blank">
+        <img src="https://via.placeholder.com/300x200.png?text=Projets+Perso" alt="Projets Perso" style="width: 45%; height: auto;">
+    </a>
 </div>
