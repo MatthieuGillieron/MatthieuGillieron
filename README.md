@@ -39,15 +39,17 @@
 
 ### Projets
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <div style="flex: 1; max-width: 45%; margin-right: 10px;">
-        <a href="https://example.com/cursus-projects" target="_blank">
-            <img src="images/42.png" alt="Projets Cursus" style="width: 100%; height: auto;">
-        </a>
-    </div>
-    <div style="flex: 1; max-width: 45%; margin-left: 10px;">
-        <a href="https://example.com/personal-projects" target="_blank">
-            <img src="images/projet.png" alt="Projets Perso" style="width: 100%; height: auto;">
-        </a>
-    </div>
-</div>
+<table>
+    <tr>
+        <td>
+            <a href="https://example.com/cursus-projects" target="_blank">
+                <img src="images/42.png" alt="Projets Cursus" style="width: 100px; height: auto;">
+            </a>
+        </td>
+        <td>
+            <a href="https://example.com/personal-projects" target="_blank">
+                <img src="images/projet.png" alt="Projets Perso" style="width: 100px; height: auto;">
+            </a>
+        </td>
+    </tr>
+</table>
