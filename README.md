@@ -32,7 +32,7 @@
 <br clear="both">
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&theme=dark&show_icons=true" alt="Matthieu Gillieron's Github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&theme=midnight-purple&show_icons=true" alt="Matthieu Gillieron's Github stats">
 </div>
 
 
