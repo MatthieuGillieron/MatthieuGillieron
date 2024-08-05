@@ -46,7 +46,7 @@
     <a href="https://example.com/cursus-projects" target="_blank" style="display: inline-block; margin-right: 20px;">
         <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; border: none;">
     </a>
-    <a href="https://example.com/personal-projects" target="_blank" style="display: inline-block;">
+    <a href="[https://example.com/personal-projects](https://github.com/MatthieuGillieron/cursus)" target="_blank" style="display: inline-block;">
         <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; border: none;">
     </a>
     <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank" style="display: inline-block; margin-left: 20px;">
