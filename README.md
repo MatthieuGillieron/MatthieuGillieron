@@ -43,7 +43,7 @@
 ### Ma bibliothèque :
 
 <div align="left">
-    <a href="https://example.com/cursus-projects" target="_blank" style="display: inline-block; margin-right: 20px;">
+    <a href="[https://example.com/cursus-projects]" (https://github.com/MatthieuGillieron/cursus)" target="_blank" style="display: inline-block; margin-right: 20px;">
         <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; border: none;">
     </a>
     <a href="[https://example.com/personal-projects](https://github.com/MatthieuGillieron/cursus)" target="_blank" style="display: inline-block;">
