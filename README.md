@@ -46,7 +46,6 @@
             <img src="images/42.png" alt="Projets Cursus" style="width: 100%; height: auto;">
         </a>
     </div>
-    
     <!-- Projets personnels -->
     <div style="flex: 1; margin-left: 10px;">
         <a href="https://example.com/personal-projects" target="_blank">
