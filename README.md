@@ -40,11 +40,11 @@
 ### Projets
 
 <div align="left">
-    <div style="display: flex; justify-content: center; gap: 20px;">
-        <a href="https://example.com/cursus-projects" target="_blank">
+    <div style="display: flex; justify-content: center; gap: 40px;"> <!-- Augmenter l'espace entre les images -->
+        <a href="https://example.com/cursus-projects" target="_blank" style="text-decoration: none;"> <!-- Supprimer le soulignement du lien -->
             <img src="images/42.png" alt="Projets Cursus" style="width: 200px; height: auto; display: block; border: none;">
         </a>
-        <a href="https://example.com/personal-projects" target="_blank">
+        <a href="https://example.com/personal-projects" target="_blank" style="text-decoration: none;"> <!-- Supprimer le soulignement du lien -->
             <img src="images/projet.png" alt="Projets Perso" style="width: 200px; height: auto; display: block; border: none;">
         </a>
     </div>
