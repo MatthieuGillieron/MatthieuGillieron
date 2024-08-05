@@ -49,7 +49,7 @@
     <a href="https://example.com/personal-projects" target="_blank" style="display: inline-block;">
         <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; border: none;">
     </a>
-    <a href="https://example.com/about" target="_blank" style="display: inline-block; margin-left: 20px;">
+    <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank" style="display: inline-block; margin-left: 20px;">
         <img src="images/about.png" alt="About Me" style="width: 250px; height: auto; border: none;">
     </a>
 </div>
