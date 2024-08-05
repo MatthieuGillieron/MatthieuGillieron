@@ -39,17 +39,19 @@
 
 ### Projets
 
-<table>
-    <tr>
-        <td>
-            <a href="https://example.com/cursus-projects" target="_blank">
-                <img src="images/42.png" alt="Projets Cursus" style="width: 100px; height: auto;">
-            </a>
-        </td>
-        <td>
-            <a href="https://example.com/personal-projects" target="_blank">
-                <img src="images/projet.png" alt="Projets Perso" style="width: 100px; height: auto;">
-            </a>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <table style="border-collapse: separate; border-spacing: 20px;">
+        <tr>
+            <td>
+                <a href="https://example.com/cursus-projects" target="_blank">
+                    <img src="images/42.png" alt="Projets Cursus" style="width: 200px; height: auto;">
+                </a>
+            </td>
+            <td>
+                <a href="https://example.com/personal-projects" target="_blank">
+                    <img src="images/projet.png" alt="Projets Perso" style="width: 200px; height: auto;">
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
