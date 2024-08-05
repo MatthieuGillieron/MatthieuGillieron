@@ -34,6 +34,15 @@
 <br clear="both">
 
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=fr&hide_border=true&order=1&custom_title=Statistiques%20Github%20Matthieu%20Gilli%C3%A9ron%20:" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthieuGillieron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph"  />
+</div>
+
+---
+
+### Ma bibliothèque :
+
+<div align="left">
     <a href="https://example.com/cursus-projects" target="_blank" style="display: inline-block; margin-right: 20px;">
         <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; border: none;">
     </a>
@@ -42,18 +51,5 @@
     </a>
     <a href="https://example.com/about" target="_blank" style="display: inline-block; margin-left: 20px;">
         <img src="images/about.png" alt="About Me" style="width: 250px; height: auto; border: none;">
-    </a>
-</div>
-
----
-
-### Ma bibliothèque :
-
-<div align="left">
-    <a href="https://example.com/cursus-projects" target="_blank">
-        <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; display: inline; border: 20; margin-right: 80px;">
-    </a>
-    <a href="https://example.com/personal-projects" target="_blank">
-        <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; display: inline; border: 70;">
     </a>
 </div>
