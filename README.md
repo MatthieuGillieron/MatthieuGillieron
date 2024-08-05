@@ -41,9 +41,9 @@
 
 <div align="left">
     <a href="https://example.com/cursus-projects" target="_blank">
-        <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; display: inline; border: 20; margin-right: 20px;">
+        <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; display: inline; border: 20; margin-right: 80px;">
     </a>
     <a href="https://example.com/personal-projects" target="_blank">
-        <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; display: inline; border: 20;">
+        <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; display: inline; border: 70;">
     </a>
 </div>
