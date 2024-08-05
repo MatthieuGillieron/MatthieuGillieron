@@ -40,18 +40,10 @@
 ### Ma bibliothèque :
 
 <div align="left">
-    <table style="border-collapse: collapse;">
-        <tr>
-            <td style="padding: 0; border: none;">
-                <a href="https://example.com/cursus-projects" target="_blank" style="display: block; border: none;">
-                    <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; display: block; border: 0;">
-                </a>
-            </td>
-            <td style="padding: 0; border: none;">
-                <a href="https://example.com/personal-projects" target="_blank" style="display: block; border: none;">
-                    <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; display: block; border: 0;">
-                </a>
-            </td>
-        </tr>
-    </table>
+    <a href="https://example.com/cursus-projects" target="_blank">
+        <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; display: inline; border: 0; margin-right: 20px;">
+    </a>
+    <a href="https://example.com/personal-projects" target="_blank">
+        <img src="images/projet.png" alt="Projets Perso" style="width: 250px; height: auto; display: inline; border: 0;">
+    </a>
 </div>
