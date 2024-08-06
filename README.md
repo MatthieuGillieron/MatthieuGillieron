@@ -8,7 +8,7 @@
 
 ### Me contacter :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthieu-gillieron-developer)
-[![Email](https://img.shields.io/badge/Email-gillieron.matthieu%40ik.me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gillieron.matthieu@ik.me)
+[![Email](https://img.shields.io/badge/Email-gillieron.matthieu%40ik.me-D14836?logo=gmail&logoColor=white)](mailto:gillieron.matthieu@ik.me)
 
 
 ---
