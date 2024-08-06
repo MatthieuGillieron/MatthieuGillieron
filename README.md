@@ -42,7 +42,7 @@
 
 ### Ma bibliothèque :
 
-<div align="left">
+<div align="center">
     <a href="https://github.com/MatthieuGillieron/cursus" (https://github.com/MatthieuGillieron/cursus)" target="_blank" style="display: inline-block; margin-right: 20px;">
         <img src="images/42.png" alt="Projets Cursus" style="width: 250px; height: auto; border: none;">
     </a>
