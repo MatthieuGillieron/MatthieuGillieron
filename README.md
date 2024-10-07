@@ -45,23 +45,24 @@
 ### Ma bibliothèque :
 
 <div align="center">
-  <table style="width: 75%; margin-left: auto; margin-right: auto;">
+  <table style="width: 75%; margin-left: auto; margin-right: auto; border-collapse: collapse;">
     <tr>
-      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: collapse;">
+      <td style="text-align: center; padding: 0;">
         <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
-          <img src="images/42.png" alt="Projets Cursus" width="100%">
+          <img src="images/42.png" alt="Projets Cursus" width="250px" style="border: none;">
         </a>
       </td>
-      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: collapse;">
+      <td style="text-align: center; padding: 0;">
         <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-          <img src="images/projet.png" alt="Projets Perso" width="100%">
+          <img src="images/projet.png" alt="Projets Perso" width="250px" style="border: none;">
         </a>
       </td>
-      <td style="text-align: center;" align="center" margin-left: auto; margin-right: auto; border-collapse: collapse;">
+      <td style="text-align: center; padding: 0;">
         <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
-          <img src="images/about.png" alt="About Me" width="100%">
+          <img src="images/about.png" alt="About Me" width="250px" style="border: none;">
         </a>
       </td>
     </tr>
   </table>
 </div>
+
