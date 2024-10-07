@@ -44,20 +44,21 @@
 
 ### Ma bibliothèque :
 
-<div align="center">
-  <div style="display: inline-block; margin: 0 10px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="margin: 0 10px;">
     <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
       <img src="images/42.png" alt="Projets Cursus" style="width: 150px; height: auto; border: none;">
     </a>
   </div>
-  <div style="display: inline-block; margin: 0 10px;">
+  <div style="margin: 0 10px;">
     <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
       <img src="images/projet.png" alt="Projets Perso" style="width: 150px; height: auto; border: none;">
     </a>
   </div>
-  <div style="display: inline-block; margin: 0 10px;">
+  <div style="margin: 0 10px;">
     <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
       <img src="images/about.png" alt="About Me" style="width: 150px; height: auto; border: none;">
     </a>
   </div>
 </div>
+
