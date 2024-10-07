@@ -45,24 +45,19 @@
 ### Ma bibliothèque :
 
 <div align="center">
-  <table style="border-collapse: collapse;">
-    <tr>
-      <td style="text-align: center; padding: 0; width: 150px;">
-        <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
-          <img src="images/42.png" alt="Projets Cursus" style="width: 100%; height: auto; border: none;">
-        </a>
-      </td>
-      <td style="text-align: center; padding: 0; width: 150px;">
-        <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-          <img src="images/projet.png" alt="Projets Perso" style="width: 100%; height: auto; border: none;">
-        </a>
-      </td>
-      <td style="text-align: center; padding: 0; width: 150px;">
-        <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
-          <img src="images/about.png" alt="About Me" style="width: 100%; height: auto; border: none;">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; margin: 0 10px;">
+    <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
+      <img src="images/42.png" alt="Projets Cursus" style="width: 150px; height: auto; border: none;">
+    </a>
+  </div>
+  <div style="display: inline-block; margin: 0 10px;">
+    <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
+      <img src="images/projet.png" alt="Projets Perso" style="width: 150px; height: auto; border: none;">
+    </a>
+  </div>
+  <div style="display: inline-block; margin: 0 10px;">
+    <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
+      <img src="images/about.png" alt="About Me" style="width: 150px; height: auto; border: none;">
+    </a>
+  </div>
 </div>
-
