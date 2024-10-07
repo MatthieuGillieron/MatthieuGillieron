@@ -44,7 +44,7 @@
 
 ### Ma bibliothèque :
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center;">
   <div style="margin: 0 10px;">
     <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
       <img src="images/42.png" alt="Projets Cursus" style="width: 150px; height: auto; border: none;">
@@ -61,4 +61,5 @@
     </a>
   </div>
 </div>
+
 
