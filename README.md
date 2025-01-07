@@ -1,6 +1,4 @@
 
-# Bienvenue sur mon profil 👋
-
 ![Image GitHub](https://github.com/MatthieuGillieron/image_account/blob/a0a40067800d07cb36ae202cb13f12eeeff85306/image/github.png)
 
 
