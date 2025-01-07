@@ -41,10 +41,11 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
         <img src="images/about.png" alt="About Me" style="width: 180px; height: auto; border: none;">
     </a>
 </div>
+</div>
 
+---
 
-
-## Some statistics :
+### Some statistics ...
 
 <br clear="both">
 
