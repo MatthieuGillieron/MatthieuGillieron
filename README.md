@@ -25,7 +25,7 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 - You can also contact me via email for any opportunities or collaboration.
 
 
-## ⬇ Learn more:
+##  📚 Learn more:
 
  - Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world.
 
@@ -45,7 +45,7 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 ---
 
-### Some statistics ...
+### 📊 Some statistics :
 
 <br clear="both">
 
@@ -56,7 +56,7 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 
 
-## Languages and Tools :
+## ⚒️ Languages and Tools :
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -73,7 +73,7 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 ![Apple](https://img.shields.io/badge/-Apple-000?&logo=Apple)
 
 ---
-### Me contacter :
+### 🌐 My social media :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthieu-gillieron-developer)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gillieron.matthieu@ik.me)
 
