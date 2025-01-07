@@ -1,14 +1,22 @@
 
 ![Image GitHub](https://github.com/MatthieuGillieron/image_account/blob/a0a40067800d07cb36ae202cb13f12eeeff85306/image/github.png)
 
+I am a passionate junior developer, currently studying at 42 Lausanne. My goal is to continually learn and further specialize in the field of artificial intelligence (AI), particularly in Machine Learning and Deep Learning. What motivates me is bringing ideas to life by transforming them into practical and concrete solutions that address real-world needs.
 
-Je suis un développeur passionné par la technologie et l'open source.
 
-<p><i>∙ Passionné par le code et la mécanique ! 💻 ⚙️</i></p>
-<p><i>∙ Mon objectif : transformer les idées en solutions ! 💡</i></p>
-<p><i>∙ Étudiant à 42 Lausanne ! 📈🚀</i></p>
+# Current Projects
+##Intelligent Chatbot:
+I am currently working on a chatbot that utilizes various Language Models (LLM) and specialized agents. These agents are trained to address specific problems and operate in different domains.
 
----
+##Video Analysis and Summarization:
+I will soon begin a project aimed at translating videos into text and automatically detecting the most impactful or interesting sections. The goal is to turn these sections into engaging posts, perfect for platforms like LinkedIn.
+
+
+
+
+
+
+
 
 ### Me contacter :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthieu-gillieron-developer)
