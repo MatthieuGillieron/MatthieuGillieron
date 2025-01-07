@@ -7,7 +7,7 @@
 - Currently studying at **42 Lausanne**. My goal is to continually learn and further specialize in the field of **artificial intelligence (AI)**, particularly in **Machine Learning** and **Deep Learning**. What motivates me is bringing ideas to life by transforming them into practical and concrete solutions that address real-world needs.
 
 
-##  🚀 Current Projects
+##  🚀 My current Projects
 
  - **Intelligent Chatbot:** I am currently working on a chatbot that utilizes various **Language Models (LLM)** and specialized agents. These agents are trained to address specific problems and operate in different domains.
 
@@ -22,14 +22,14 @@
 
 
 
-## 📨 How to contact me ↘︎
+## 📨 How to reach me?
 
 - Feel free to reach out to me on [**LinkedIn**](https://linkedin.com/in/matthieu-gillieron-developer), where I will respond quickly.  
 - You can also contact me via [**email**](mailto:gillieron.matthieu@ik.me) for any opportunities or collaboration.
 
 
 
-## 📖 Dive Into My World 
+## 📖 Dive into my World 
 
  - Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world.
 
