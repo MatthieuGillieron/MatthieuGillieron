@@ -1,9 +1,8 @@
 
 # Bienvenue sur mon profil 👋
 
-<p align="center">
-  <img src=image/github.png alt="Bannière GitHub" style="width:100%; max-height:300px;">
-</p>
+![Image GitHub](https://github.com/MatthieuGillieron/image_account/blob/a0a40067800d07cb36ae202cb13f12eeeff85306/image/github.png)
+
 
 Je suis un développeur passionné par la technologie et l'open source.
 
