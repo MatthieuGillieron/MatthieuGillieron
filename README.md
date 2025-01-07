@@ -25,7 +25,7 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 - You can also contact me via email for any opportunities or collaboration.
 
 
-## ⬇️ Learn more:
+## ⬇ Learn more:
 
  - Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world.
 
