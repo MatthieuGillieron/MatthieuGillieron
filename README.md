@@ -29,9 +29,6 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
  - Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world.
 
-
-### Ma bibliothèque :
-
 <div align="center" style="display: flex; justify-content: center;">
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
