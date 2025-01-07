@@ -21,13 +21,13 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 ## How to contact me:
 
-Feel free to reach out to me on **LinkedIn**, where I will respond quickly and enthusiastically.  
-You can also contact me via email for any opportunities or collaboration.
+- Feel free to reach out to me on **LinkedIn**, where I will respond quickly and enthusiastically.  
+- You can also contact me via email for any opportunities or collaboration.
 
 
 ## Learn more:
 
-Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world.
+ - Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world.
 
 
 
