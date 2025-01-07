@@ -62,14 +62,27 @@
 
 ### ⚒️ Languages and Tools I use :
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+</div>
 
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+<br>
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Apple](https://img.shields.io/badge/-Apple-000?&logo=Apple)
+### Checking Me Out?
+
+<br>
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/MatthieuGillieron/count.svg?"  />
+</div>
+
