@@ -56,7 +56,7 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 
 
-## ⚒️ Languages and Tools :
+### ⚒️ Languages and Tools :
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -74,8 +74,11 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 ---
 ### 🌐 My social media :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthieu-gillieron-developer)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gillieron.matthieu@ik.me)
+
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthieu-gillieron-developer)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gillieron.matthieu@ik.me)
+</div>
 
 
 
