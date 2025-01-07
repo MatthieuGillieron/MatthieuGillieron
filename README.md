@@ -4,6 +4,7 @@
 
 I am a passionate junior developer, currently studying at **42 Lausanne**. My goal is to continually learn and further specialize in the field of **artificial intelligence (AI)**, particularly in **Machine Learning** and **Deep Learning**. What motivates me is bringing ideas to life by transforming them into practical and concrete solutions that address real-world needs.
 
+<br>
 
 ##  🚀 Current Projects
 
@@ -11,6 +12,7 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
  - **Video Analysis and Summarization:**  I will soon begin a project aimed at translating videos into text and automatically detecting the most impactful or interesting sections. The goal is to turn these sections into engaging posts, perfect for platforms like LinkedIn.
 
+<br>
 
 ## 🤝 Let's Collaborate!
 
@@ -18,11 +20,14 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 - Projects related to improving **UI/UX** (user interface and user experience).
 - Any other project that presents a stimulating and enriching challenge!
 
+<br>
 
 ## 📨 How to contact me ↘︎
 
 - Feel free to reach out to me on [**LinkedIn**](https://linkedin.com/in/matthieu-gillieron-developer), where I will respond quickly.  
 - You can also contact me via [**email**](mailto:gillieron.matthieu@ik.me) for any opportunities or collaboration.
+
+<br>
 
 ## 📖 Dive Into My World 
 
@@ -68,10 +73,3 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Apple](https://img.shields.io/badge/-Apple-000?&logo=Apple)
-
----
-
-
-
-
-
