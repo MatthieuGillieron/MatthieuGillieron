@@ -21,9 +21,8 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 ## 📨 How to contact me:
 
-- Feel free to reach out to me on **LinkedIn**, where I will respond quickly and enthusiastically.  
-- You can also contact me via email for any opportunities or collaboration.
-
+- Feel free to reach out to me on [**LinkedIn**](https://linkedin.com/in/matthieu-gillieron-developer), where I will respond quickly.  
+- You can also contact me via [**email**](mailto:gillieron.matthieu@ik.me) for any opportunities or collaboration.
 
 ##  📚 Learn more:
 
@@ -66,24 +65,11 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Apple](https://img.shields.io/badge/-Apple-000?&logo=Apple)
 
 ---
-### 🌐 My social media :
-
-<p align="center">
-  <a href="https://linkedin.com/in/matthieu-gillieron-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gillieron.matthieu@ik.me">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
 
 
 
