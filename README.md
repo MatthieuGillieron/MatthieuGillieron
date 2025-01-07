@@ -1,4 +1,11 @@
-<h1 align="center">Matthieu Gilliéron</h1>
+
+# Bienvenue sur mon profil 👋
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MatthieuGillieron/image_account/main/image/github.png" alt="Bannière GitHub" style="width:100%; max-height:300px;">
+</p>
+
+Je suis un développeur passionné par la technologie et l'open source.
 
 <p><i>∙ Passionné par le code et la mécanique ! 💻 ⚙️</i></p>
 <p><i>∙ Mon objectif : transformer les idées en solutions ! 💡</i></p>
