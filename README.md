@@ -7,10 +7,10 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 # Current Projects:
 
-## **Intelligent Chatbot:**  
+ **Intelligent Chatbot:**  
 I am currently working on a chatbot that utilizes various **Language Models (LLM)** and specialized agents. These agents are trained to address specific problems and operate in different domains.
 
-## **Video Analysis and Summarization:**  
+ **Video Analysis and Summarization:**  
 I will soon begin a project aimed at translating videos into text and automatically detecting the most impactful or interesting sections. The goal is to turn these sections into engaging posts, perfect for platforms like LinkedIn.
 
 
