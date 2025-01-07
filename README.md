@@ -5,26 +5,26 @@
 I am a passionate junior developer, currently studying at **42 Lausanne**. My goal is to continually learn and further specialize in the field of **artificial intelligence (AI)**, particularly in **Machine Learning** and **Deep Learning**. What motivates me is bringing ideas to life by transforming them into practical and concrete solutions that address real-world needs.
 
 
-##  🚀 Current Projects:
+##  🚀 Current Projects
 
  - **Intelligent Chatbot:** I am currently working on a chatbot that utilizes various **Language Models (LLM)** and specialized agents. These agents are trained to address specific problems and operate in different domains.
 
  - **Video Analysis and Summarization:**  I will soon begin a project aimed at translating videos into text and automatically detecting the most impactful or interesting sections. The goal is to turn these sections into engaging posts, perfect for platforms like LinkedIn.
 
 
-## 👥 Available for collaboration on:
+## 🤝 Let's Collaborate!
 
 - Projects utilizing **artificial intelligence** and **Machine Learning**.
 - Projects related to improving **UI/UX** (user interface and user experience).
 - Any other project that presents a stimulating and enriching challenge!
 
 
-## 📨 How to contact me:
+## 📨 How to contact me ↘︎
 
 - Feel free to reach out to me on [**LinkedIn**](https://linkedin.com/in/matthieu-gillieron-developer), where I will respond quickly.  
 - You can also contact me via [**email**](mailto:gillieron.matthieu@ik.me) for any opportunities or collaboration.
 
-##  📚 Learn more:
+## 📖 Dive Into My World 
 
  - Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world.
 
@@ -44,7 +44,7 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 ---
 
-### 📊 Some statistics :
+### 📊 My Stats at a Glance :
 
 <br clear="both">
 
@@ -55,7 +55,7 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 
 
-### ⚒️ Languages and Tools :
+### ⚒️ Languages and Tools I use :
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
