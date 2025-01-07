@@ -30,8 +30,34 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
  - Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world.
 
 
+### Ma bibliothèque :
+
+<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
+        <img src="images/42.png" alt="Projets Cursus" style="width: 180px; height: auto; border: none;">
+    </a>
+    <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
+        <img src="images/projet.png" alt="Projets Perso" style="width: 180px; height: auto; border: none;">
+    </a>
+    <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
+        <img src="images/about.png" alt="About Me" style="width: 180px; height: auto; border: none;">
+    </a>
+</div>
 
 
+---
+
+### Quelques statistiques :
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=fr&hide_border=true&order=1&custom_title=Statistiques%20Github%20Matthieu%20Gilli%C3%A9ron%20:" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthieuGillieron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph"  />
+</div>
+
+---
 
 
 
@@ -62,30 +88,8 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 
 ---
 
-### Quelques statistiques :
 
-<br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=fr&hide_border=true&order=1&custom_title=Statistiques%20Github%20Matthieu%20Gilli%C3%A9ron%20:" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthieuGillieron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph"  />
-</div>
 
----
-
-### Ma bibliothèque :
-
-<div align="center" style="display: flex; justify-content: center;">
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
-        <img src="images/42.png" alt="Projets Cursus" style="width: 180px; height: auto; border: none;">
-    </a>
-    <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-        <img src="images/projet.png" alt="Projets Perso" style="width: 180px; height: auto; border: none;">
-    </a>
-    <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
-        <img src="images/about.png" alt="About Me" style="width: 180px; height: auto; border: none;">
-    </a>
-</div>
 
 
