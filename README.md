@@ -43,9 +43,8 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 </div>
 
 
----
 
-### Quelques statistiques :
+## Some statistics :
 
 <br clear="both">
 
@@ -54,20 +53,9 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthieuGillieron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph"  />
 </div>
 
----
 
 
-
-
-
-### Me contacter :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthieu-gillieron-developer)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gillieron.matthieu@ik.me)
-
-
----
-
-### Languages et outils :
+## Languages and Tools :
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -84,6 +72,9 @@ I am a passionate junior developer, currently studying at **42 Lausanne**. My go
 ![Apple](https://img.shields.io/badge/-Apple-000?&logo=Apple)
 
 ---
+### Me contacter :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthieu-gillieron-developer)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gillieron.matthieu@ik.me)
 
 
 
