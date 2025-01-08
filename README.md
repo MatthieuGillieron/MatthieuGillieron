@@ -2,7 +2,7 @@
 ![Image GitHub](https://github.com/MatthieuGillieron/image_account/blob/a0a40067800d07cb36ae202cb13f12eeeff85306/image/github.png)
 
 
-## 🤠 I'am a passionate junior developer
+## 👨‍💻 A passionate junior developer
 
 - Currently studying at **42 Lausanne**. My goal is to continually learn and further specialize in the field of **artificial intelligence (AI)**, particularly in **Machine Learning** and **Deep Learning**. What motivates me is bringing ideas to life by transforming them into practical and concrete solutions that address real-world needs.
 
