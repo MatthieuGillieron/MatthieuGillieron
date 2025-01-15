@@ -17,7 +17,7 @@
 ## 🤝 Let's Collaborate!
 
 - Projects utilizing **artificial intelligence** and **Machine Learning**.
-- Projects related to improving **UI/UX** (user interface and user experience).
+- Projects related to improving **UI/UX**.
 - Any other project that presents a stimulating and enriching challenge!
 
 
