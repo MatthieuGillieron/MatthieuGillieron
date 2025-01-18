@@ -31,7 +31,7 @@
 
 ## 📖 Dive into my World 
 
- - Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world.
+ - Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world !
 
 <div align="center" style="display: flex; justify-content: center;">
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
