@@ -4,12 +4,10 @@
 
 ## 👨‍💻 A passionate junior developer
 
-- Currently studying at **42 Lausanne**. My goal is to continually learn and further specialize in the field of **artificial intelligence (AI)**, particularly in **Machine Learning** and **Deep Learning**. What motivates me is bringing ideas to life by transforming them into practical and concrete solutions that address real-world needs.
-
-
+- Currently studying at **42 Lausanne**. My goal is to continually learn and further specialize in the field of **artificial intelligence
 ##  🚀 My current Projects
 
- - **Intelligent Chatbot:** I am currently working on a chatbot that utilizes various **Language Models (LLM)** and specialized agents. These agents are trained to address specific problems and operate in different domains.
+ - **Intelligent Chatbot:** I am currently working on a chatbot that utilizes various **Language Models (LLM)**.
 
  - **Video Analysis and Summarization:**  I will soon begin a project aimed at translating videos into text and automatically detecting the most impactful or interesting sections. The goal is to turn these sections into engaging posts, perfect for platforms like LinkedIn.
 
@@ -19,8 +17,6 @@
 - Projects utilizing **artificial intelligence** and **Machine Learning**.
 - Projects related to improving **UI/UX**.
 - Any other project that presents a stimulating and enriching challenge!
-
-
 
 ## 📨 How to reach me?
 
