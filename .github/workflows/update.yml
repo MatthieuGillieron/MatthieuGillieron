@@ -3,7 +3,7 @@ name: Update
 on:
   schedule:
     - cron: "0 0 * * *"  # Exécution chaque jour à minuit UTC
-  workflow_dispatch:  # Permet d'exécuter manuellement le workflow
+  workflow_dispatch:  
 
 jobs:
   update-readme:
@@ -11,7 +11,7 @@ jobs:
 
  permissions:
       contents: write
-      
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
