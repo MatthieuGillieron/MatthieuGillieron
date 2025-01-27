@@ -21,7 +21,7 @@ jobs:
           python -m pip install --upgrade pip
 
       - name: Run the script to update README
-        run: python days.py
+        run: python utils/days.py
 
       - name: Commit and push changes
         run: |
