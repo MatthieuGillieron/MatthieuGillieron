@@ -1,5 +1,5 @@
 
-![Image GitHub](images/me.png)
+![Image GitHub](utils/images/me.png)
 
 
 ## 👨‍💻 A passionate junior developer
@@ -31,13 +31,13 @@
 <div align="center" style="display: flex; justify-content: center;">
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
-        <img src="images/42.png" alt="Projets Cursus" style="width: 180px; height: auto; border: none;">
+        <img src="/utils/images/42.png" alt="Projets Cursus" style="width: 180px; height: auto; border: none;">
     </a>
     <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-        <img src="images/projet.png" alt="Projets Perso" style="width: 180px; height: auto; border: none;">
+        <img src="utils/images/projet.png" alt="Projets Perso" style="width: 180px; height: auto; border: none;">
     </a>
     <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
-        <img src="images/about.png" alt="About Me" style="width: 180px; height: auto; border: none;">
+        <img src="utils/images/about.png" alt="About Me" style="width: 180px; height: auto; border: none;">
     </a>
 </div>
 </div>
