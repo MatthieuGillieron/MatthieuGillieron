@@ -3,7 +3,7 @@ from datetime import datetime
 
 current_date = datetime.now().strftime("%d %B %Y")
 
-custom_message = f"On {current_date}, the choice is still ine the Matrix ⏳"
+custom_message = f"On {current_date}, the choice is still in the Matrix ⏳"
 
 with open("README.md", "r") as file:
     content = file.readlines()
@@ -11,7 +11,7 @@ with open("README.md", "r") as file:
 new_content = []
 message_found = False
 for line in content:
-    if line.startswith("On") and "the choice is still ine the Matrix ⏳" in line:
+    if line.startswith("On") and "the choice is still in the Matrix ⏳" in line:
         new_content.append(custom_message + "\n")  # Remplace la ligne existante
         message_found = True
     else:
