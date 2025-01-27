@@ -2,8 +2,9 @@ name: Update
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Exécution chaque jour à minuit UTC
+  workflow_dispatch:  # Permet d'exécuter manuellement le workflow
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -16,6 +17,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.9"
+          
       - name: Install dependencies (si nécessaire)
         run: |
           python -m pip install --upgrade pip
@@ -27,8 +29,8 @@ jobs:
         run: |
           git config --global user.name "Matthieu Gillieron"
           git config --global user.email "action@github.com"
-          git add README.md 
+          git add README.md
           git commit -m "Reality Shift"
-          git push
+          git push https://github.com/MatthieuGillieron/MatthieuGillieron.git HEAD:main
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
