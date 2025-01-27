@@ -33,4 +33,4 @@ jobs:
           git commit -m "Reality Shift"
           git push https://github.com/MatthieuGillieron/MatthieuGillieron.git HEAD:main
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
