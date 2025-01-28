@@ -1,24 +1,17 @@
-
+import re
 from datetime import datetime
 
-current_date = datetime.now().strftime("%d %B %Y")
+readme_file = "README.md"
 
-custom_message = f"On {current_date}, the choice is still in the Matrix ⏳"
+with open(readme_file, "r") as file:
+    content = file.read()
 
-with open("README.md", "r") as file:
-    content = file.readlines()
+new_date = datetime.now().strftime("%d %B %Y")
+updated_content = re.sub(r"On \d{1,2} \w+ \d{4}", f"On {new_date}", content)
 
-new_content = []
-message_found = False
-for line in content:
-    if line.startswith("On") and "the choice is still in the Matrix ⏳" in line:
-        new_content.append(custom_message + "\n")  # Remplace la ligne existante
-        message_found = True
-    else:
-        new_content.append(line)
-
-if not message_found:
-    new_content.append("\n" + custom_message + "\n")
-
-with open("README.md", "w") as file:
-    file.writelines(new_content)
+if updated_content != content:
+    with open(readme_file, "w") as file:
+        file.write(updated_content)
+    print("README.md updated.")
+else:
+    print("No changes made.")
