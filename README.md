@@ -84,4 +84,4 @@
 ---
 
 
-On 01 February 2025, the choice is still in the Matrix ⏳
+On 02 February 2025, the choice is still in the Matrix ⏳
