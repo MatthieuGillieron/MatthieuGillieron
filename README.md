@@ -2,8 +2,7 @@
 ![Image GitHub](utils/images/me.png)
 
 
-## 👨‍💻 A passionate junior developer
-
+## 👨‍💻 Welcome to my world !
 - Currently studying at **42 Lausanne**
 - My goal is to continually learn and further specialize in the field of **artificial intelligence
 ##  🚀 My current Projects
