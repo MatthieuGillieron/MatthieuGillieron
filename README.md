@@ -1,6 +1,7 @@
 
 ![Image GitHub](utils/images/me.png)
 
+<br>
 
 <table>
   <tr>
@@ -42,7 +43,9 @@
   </tr>
 </table>
 
-## 📖 Dive into my World
+<br>
+
+### 📖 Dive into my World
 
 <table>
   <tr>
@@ -63,9 +66,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Explore my academic projects</strong></td>
-    <td align="center"><strong>Discover my personal projects</strong></td>
-    <td align="center"><strong>Learn more about me</strong></td>
+    <td align="center" colspan="3">
+      <img src="utils/images/while.png" alt="While Image"/>
+    </td>
   </tr>
 </table>
 
