@@ -2,44 +2,72 @@
 ![Image GitHub](utils/images/me.png)
 
 
-## 👨‍💻 Welcome to my world !
-- Currently studying at **42 Lausanne**
-- My goal is to continually learn and further specialize in the field of **artificial intelligence
-##  🚀 My current Projects
+<table>
+  <tr>
+    <td align="center"><strong>Welcome to my world! 👨‍💻</strong></td>
+    <td align="center"><strong>Let's Collaborate! 🫵</strong></td>
+  </tr>
+  <tr>
+    <td style="font-family: 'Anonymous Pro', monospace; font-size: 8px;">
+      <ul>
+        <li>Currently studying at <strong>42 Lausanne</strong></li>
+        <li>My goal is to continually learn and further specialize in the field of <strong>artificial intelligence</strong></li>
+      </ul>
+    </td>
+    <td style="font-family: 'Anonymous Pro', monospace; font-size: 3px;">
+      <ul>
+        <li>Projects utilizing <strong> AI </strong> and <strong>ML</strong></li>
+        <li>Projects related to improving <strong>UI/UX</strong></li>
+        <li>Project stimulating and enriching!</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>My current Projects 🚀</strong></td>
+    <td align="center"><strong>How to reach me? 📨</strong></td>
+  </tr>
+  <tr>
+    <td style="font-family: 'Anonymous Pro', monospace; font-size: 14px;">
+      <ul>
+        <li><strong>Intelligent Chatbot:</strong> I am currently working on a chatbot that utilizes various <strong>Language Models (LLM)</strong></li>
+        <li><strong>Video Analysis and Summarization:</strong> I'll soon start a project to transcribe videos and highlight key sections for LinkedIn.</li>
+      </ul>
+    </td>
+    <td style="font-family: 'Anonymous Pro', monospace; font-size: 14px;">
+      <ul>
+        <li>Feel free to reach out on <a href="https://linkedin.com/in/matthieu-gillieron-developer"><strong>LinkedIn</strong></a> for a quick response</li>
+        <li>You can also contact me via <a href="mailto:gillieron.matthieu@ik.me"><strong>email</strong></a> for any opportunities or collaboration.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
- - **Intelligent Chatbot:** I am currently working on a chatbot that utilizes various **Language Models (LLM)**
+## 📖 Dive into my World
 
- - **Video Analysis and Summarization:**  I'll soon start a project to transcribe videos and highlight key sections for LinkedIn.
-## 🤝 Let's Collaborate!
-
-- Projects utilizing **artificial intelligence** and **Machine Learning**.
-- Projects related to improving **UI/UX**.
-- Any other project that presents a stimulating and enriching challenge!
-
-## 📨 How to reach me?
-
-- Feel free to reach out to me on [**LinkedIn**](https://linkedin.com/in/matthieu-gillieron-developer), where I will respond quickly.  
-- You can also contact me via [**email**](mailto:gillieron.matthieu@ik.me) for any opportunities or collaboration.
-
-
-
-## 📖 Dive into my World 
-
- - Just below, you'll find a library showcasing my journey, personal projects, and more about me. Click on the images to explore further and discover my world !
-
-<div align="center" style="display: flex; justify-content: center;">
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
-        <img src="/utils/images/42.png" alt="Projets Cursus" style="width: 180px; height: auto; border: none;">
-    </a>
-    <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-        <img src="utils/images/projet.png" alt="Projets Perso" style="width: 180px; height: auto; border: none;">
-    </a>
-    <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
-        <img src="utils/images/about.png" alt="About Me" style="width: 180px; height: auto; border: none;">
-    </a>
-</div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
+        <img src="utils/images/42.png" alt="Projets Cursus" width="180px" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
+        <img src="utils/images/projet.png" alt="Projets Perso" width="180px" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
+        <img src="utils/images/about.png" alt="About Me" width="180px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Explore my academic projects</strong></td>
+    <td align="center"><strong>Discover my personal projects</strong></td>
+    <td align="center"><strong>Learn more about me</strong></td>
+  </tr>
+</table>
 
 ---
 
