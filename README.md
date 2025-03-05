@@ -82,8 +82,6 @@
   </tr>
 </table>
 
----
-
 ### 📊 My Stats at a Glance :
 
 <br clear="both">
