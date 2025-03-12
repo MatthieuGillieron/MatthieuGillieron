@@ -86,8 +86,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthieuGillieron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="165" alt="languages graph"  />
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/36d4c413-f315-46c6-8d24-fc1fa3d17d0c.svg)](https://wakatime.com/@36d4c413-f315-46c6-8d24-fc1fa3d17d0c)
-
 ### ⚒️ Languages and Tools I use :
 
 <div align="left">
