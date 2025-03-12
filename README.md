@@ -69,11 +69,6 @@
         <img src="utils/images/ctf.png" alt="ctf" width="160px" />
       </a>
     </td>
- <td align="center">
-      <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
-        <img src="utils/images/about.png" alt="game jam" width="160px" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center" colspan="5">
