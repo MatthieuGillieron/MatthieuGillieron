@@ -4,49 +4,42 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="utils/images/first.png" alt="First Image" width="1000px"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 📖 Dive into my World
-
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
-        <img src="utils/images/42.png" alt="Project 42" width="160px" />
-      </a>
+    <td align="center"><strong>Welcome to my world! 👨‍💻</strong></td>
+    <td align="center"><strong>Let's Collaborate! 🫵</strong></td>
+  </tr>
+  <tr>
+    <td style="font-family: 'Anonymous Pro', monospace; font-size: 8px;">
+      <ul>
+        <li>Currently studying at <strong>42 Lausanne</strong></li>
+        <li>My goal is to continually learn and further specialize in the field of <strong>artificial intelligence</strong></li>
+      </ul>
     </td>
-    <td align="center">
-      <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-        <img src="utils/images/projet.png" alt="Project Pers." width="160px" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MatthieuGillieron/game_jam" target="_blank">
-        <img src="utils/images/jam.png" alt="About Me" width="160px" />
-      </a>
-    </td>
- <td align="center">
-      <a href="https://github.com/MatthieuGillieron/ctf" target="_blank">
-        <img src="utils/images/ctf.png" alt="ctf" width="160px" />
-      </a>
-    </td>
- <td align="center">
-      <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
-        <img src="utils/images/about.png" alt="game jam" width="160px" />
-      </a>
+    <td style="font-family: 'Anonymous Pro', monospace; font-size: 3px;">
+      <ul>
+        <li>Projects utilizing <strong> AI </strong> and <strong>ML</strong></li>
+        <li>Projects related to improving <strong>UI/UX</strong></li>
+        <li>Project stimulating and enriching!</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="5">
-      <img src="utils/images/while.png" alt="While Image"/>
+    <td align="center"><strong>My current Projects 🚀</strong></td>
+    <td align="center"><strong>How to reach me? 📨</strong></td>
+  </tr>
+  <tr>
+    <td style="font-family: 'Anonymous Pro', monospace; font-size: 14px;">
+      <ul>
+        <li><strong>Intelligent Chatbot:</strong> I am currently working on a chatbot that utilizes various <strong>Language Models (LLM)</strong></li>
+        <li><strong>Video Analysis and Summarization:</strong> I'll soon start a project to transcribe videos and highlight key sections for LinkedIn.</li>
+      </ul>
+    </td>
+    <td style="font-family: 'Anonymous Pro', monospace; font-size: 14px;">
+      <ul>
+        <li>Feel free to reach out on <a href="https://linkedin.com/in/matthieu-gillieron-developer"><strong>LinkedIn</strong></a> for a quick response</li>
+        <li>You can also contact me via <a href="mailto:gillieron.matthieu@ik.me"><strong>email</strong></a> for any opportunities or collaboration.</li>
+      </ul>
     </td>
   </tr>
 </table>
