@@ -35,7 +35,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git add README.md 
-          git commit -m "Reality Shift"
+          git commit -m "auto-update current date"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
