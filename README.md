@@ -5,7 +5,7 @@
 ## Welcome to my world ! 👤
 
 <picture>
-   <img align="right" src="utils/images/3d.gif" width = 250px>
+   <img align="right" src="utils/images/3d.gif" width = 90px>
 </picture>
 
 - 👨‍🎓 I am currently a student at 42 Lausanne
