@@ -20,7 +20,6 @@
 - 🌐 Feel free to reach out on <a href="https://linkedin.com/in/matthieu-gillieron-developer"><strong>LinkedIn</strong></a> for a quick response
 - 📧 You can also contact me via <a href="mailto:gillieron.matthieu@ik.me"><strong>email</strong></a> for any opportunities or collaboration
 
-
 <br>
 
 ### 📖 Dive into my World
@@ -102,9 +101,7 @@
   </tr>
 </table>
 
-
 <br>
-
 
 <br>
 
@@ -119,6 +116,5 @@
 </div>
 
 ---
-
 
 On 12 April 2025, the choice is still in the Matrix ⏳
