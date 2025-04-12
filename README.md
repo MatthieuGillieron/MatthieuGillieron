@@ -4,6 +4,10 @@
 
 ## Welcome to my world ! 👤
 
+<picture>
+   <img align="right" src="utils/images/3d.gif" width = 250px>
+</picture>
+
 - 👨‍🎓 I am currently a student at 42 Lausanne
 - ⚙️ I am passionate about both programming and mechanics
 - ⚡️ My goal → create solutions that meet real needs
