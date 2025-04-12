@@ -2,17 +2,11 @@
 ![Image GitHub](utils/images/me.png)
 
 
-<br>
-
-
 ## Welcome to my world ! 👤
-<picture>
-  <img align="right" src="utils/images/cube.gif" width = 250px>
-</picture>
 
-- 👨‍🎓 I am currently a student at 42 Lausanne.
-- ⚙️ I am passionate about both programming and mechanics.
-- ⚡️ Mon objectif → créer des solutions qui répondent à des besoins réels
+- 👨‍🎓 I am currently a student at 42 Lausanne
+- ⚙️ I am passionate about both programming and mechanics
+- ⚡️ My goal → create solutions that meet real needs
 
 ## Let's Collaborate! 🫵
 
