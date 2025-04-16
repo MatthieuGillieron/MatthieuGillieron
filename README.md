@@ -14,15 +14,13 @@
 
 ## Let's Collaborate! 🫵
 
-- 🤖 Projects utilizing <strong> AI </strong> and <strong>ML
-- 👨‍💻 Projects related to improving <strong>UI/UX</strong>
-- 🚀 Project stimulating and enriching!
+- 🤖 Projects utilizing <strong> AI </strong> and <strong> ML </strong>
+- 👨‍💻 Projects related to improving <strong> UI/UX </strong>
+- 🚀 Project stimulating and enriching !
 - 🌐 Feel free to reach out on <a href="https://linkedin.com/in/matthieu-gillieron-developer"><strong>LinkedIn</strong></a> for a quick response
 - 📧 You can also contact me via <a href="mailto:gillieron.matthieu@ik.me"><strong>email</strong></a> for any opportunities or collaboration
 
-<br>
-
-### 📖 Dive into my World
+## 📖 Click to see !
 
 <table>
   <tr>
@@ -72,8 +70,6 @@
       <img src="utils/images/stats_tools.png" alt="Stats & Tools" width="1000px"/>
     </td>
   </tr>
-  
-  <!-- Deuxième ligne : Widgets de stats -->
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=fr&hide_border=false&order=1&custom_title=Statistiques%20Github%20Matthieu%20Gilli%C3%A9ron%20:" height="165" alt="stats graph" />
@@ -82,6 +78,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthieuGillieron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="165" alt="languages graph" />
     </td>
   </tr>
+  
+  <!-- Deuxième ligne : Widgets de stats -->
   
   <!-- Troisième ligne : Icônes centrées -->
   <tr>
@@ -100,8 +98,6 @@
     </td>
   </tr>
 </table>
-
-<br>
 
 <br>
 
