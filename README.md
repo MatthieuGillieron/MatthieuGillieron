@@ -52,7 +52,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&v
 
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9"/>
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuGillieron&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9"/>
+  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuGillieron&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
@@ -82,7 +82,3 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&v
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
 </a>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthieuGillieron&theme=tokyonight&hide_border=false&background=0D1117&stroke=9745f5&ring=9745f5&fire=ff6b6b&currStreakLabel=9745f5" alt="GitHub Streak" />
-</div>
