@@ -83,3 +83,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&v
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
 </a>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthieuGillieron&theme=tokyonight&hide_border=false&background=0D1117&stroke=9745f5&ring=9745f5&fire=ff6b6b&currStreakLabel=9745f5" alt="GitHub Streak" />
+</div>
