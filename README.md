@@ -46,7 +46,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&v
 
 <br>
 
- ## Stats you don’t need, but definitely want 📊
+ ## How I’ve Been Breaking My Keyboar 📊
 
 
 
