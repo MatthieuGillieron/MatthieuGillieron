@@ -9,7 +9,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&v
 ## Welcome to my world ! 👤
 
 <picture>
-   <img align="right" src="utils/images/gif/dev.png" width = 350px>
+   <img align="right" src="utils/images/gif/dev.png" width = 35%>
 </picture>
 
 - 👨‍🎓 I am currently a student at 42 Lausanne
@@ -31,16 +31,16 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&v
     <img src="utils/images/Cadre/cadre1.png" alt="Project 42" width="160px" />
   </a>
   <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-    <img src="utils/images/Cadre/cadre3.png" alt="Project Pers." width="160px" />
+    <img src="utils/images/Cadre/cadre2.png" alt="Project Pers." width="160px" />
   </a>
   <a href="https://github.com/MatthieuGillieron/game_jam" target="_blank">
     <img src="utils/images/Cadre/cadre3.png" alt="Game Jam" width="160px" />
   </a>
   <a href="https://github.com/MatthieuGillieron/ctf" target="_blank">
-    <img src="utils/images/Cadre/cadre4.png" alt="CTF" width="160px" />
+    <img src="utils/images/Cadre/cadre5.png" alt="CTF" width="160px" />
   </a>
   <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
-    <img src="utils/images/Cadre/cadre5.png" alt="About Me" width="160px" />
+    <img src="utils/images/Cadre/cadre4.png" alt="About Me" width="160px" />
   </a>
 </div>
 
