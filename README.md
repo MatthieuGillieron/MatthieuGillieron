@@ -1,11 +1,15 @@
 
-![Image GitHub](utils/images/me.png)
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
+</a>
 
+![Typing
+SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Aspiring+Data+Scientist;)
 
 ## Welcome to my world ! 👤
 
 <picture>
-   <img align="right" src="utils/images/3d.gif" width = 90px>
+   <img align="right" src="utils/images/gif/dev.png" width = 350px>
 </picture>
 
 - 👨‍🎓 I am currently a student at 42 Lausanne
@@ -22,40 +26,25 @@
 
 ## 📖 Click to see !
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
-        <img src="utils/images/42.png" alt="Project 42" width="160px" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-        <img src="utils/images/projet.png" alt="Project Pers." width="160px" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MatthieuGillieron/game_jam" target="_blank">
-        <img src="utils/images/jam.png" alt="About Me" width="160px" />
-      </a>
-    </td>
- <td align="center">
-      <a href="https://github.com/MatthieuGillieron/ctf" target="_blank">
-        <img src="utils/images/ctf.png" alt="ctf" width="160px" />
-      </a>
-    </td>
- <td align="center">
-      <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
-        <img src="utils/images/about.png" alt="game jam" width="160px" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="5">
-      <img src="utils/images/while.png" alt="While Image"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
+    <img src="utils/images/Cadre/cadre1.png" alt="Project 42" width="160px" />
+  </a>
+  <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
+    <img src="utils/images/Cadre/cadre3.png" alt="Project Pers." width="160px" />
+  </a>
+  <a href="https://github.com/MatthieuGillieron/game_jam" target="_blank">
+    <img src="utils/images/Cadre/cadre3.png" alt="Game Jam" width="160px" />
+  </a>
+  <a href="https://github.com/MatthieuGillieron/ctf" target="_blank">
+    <img src="utils/images/Cadre/cadre4.png" alt="CTF" width="160px" />
+  </a>
+  <a href="https://github.com/MatthieuGillieron/aboutMe" target="_blank">
+    <img src="utils/images/Cadre/cadre5.png" alt="About Me" width="160px" />
+  </a>
+</div>
+
+
 
 <br>
 
@@ -63,41 +52,24 @@
 
 <br>
 
-<table align="center">
-  <!-- Première ligne : Image stats_tools -->
-  <tr>
-    <td align="center" colspan="2">
-      <img src="utils/images/stats_tools.png" alt="Stats & Tools" width="1000px"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=fr&hide_border=false&order=1&custom_title=Statistiques%20Github%20Matthieu%20Gilli%C3%A9ron%20:" height="165" alt="stats graph" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthieuGillieron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="165" alt="languages graph" />
-    </td>
-  </tr>
-  
-  <!-- Deuxième ligne : Widgets de stats -->
-  
-  <!-- Troisième ligne : Icônes centrées -->
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&local=true&&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuGillieron&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+</div>
 
 <br>
 
@@ -109,6 +81,7 @@
   <img src="https://profile-counter.glitch.me/MatthieuGillieron/count.svg?"  />
 </div>
 
----
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
+</a>
 
-On 17 May 2025, the choice is still in the Matrix ⏳
