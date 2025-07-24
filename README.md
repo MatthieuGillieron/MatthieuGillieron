@@ -4,7 +4,7 @@
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Aspiring+Data+Scientist;)
+SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Aspiring+Fullstack+Developer;)
 
 ## Welcome to my world ! 👤
 
@@ -62,20 +62,3 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&v
     <img src="https://skillicons.dev/icons?i=c,python,docker,mysql,apple,linux" />
   </a>
 </p>
-
-<br>
-
-<h4 align="center"> System.log("Agent Smiths deployed...") </h4>
-
-<br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MatthieuGillieron/count.svg?"  />
-</div>
-
-
-![](https://komarev.com/ghpvc/?username=MatthieuGillieron&color=blueviolet)
-
-<a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
-</a>
