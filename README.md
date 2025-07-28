@@ -62,3 +62,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&v
     <img src="https://skillicons.dev/icons?i=c,python,docker,mysql,apple,linux" />
   </a>
 </p>
+
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
+</a>
