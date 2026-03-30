@@ -2,28 +2,32 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
 </a>
 
-![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&vCenter=true&width=1000&lines=Hi,+I'm+an+Aspiring+Fullstack+Developer;)
+## About me
+Student @ **42 Lausanne**   
+I build **RAG pipelines**, **LLM integrations** and **automation tools**  
+**Won 2 hackathons** (Infomaniak, AI Innovation Lab)  
+**Creator** of Wizlean - SaaS to turn content curation into impactful LinkedIn posts  
+Portfolio Chatbot — **RAG-powered chatbot**  
+PmergeMe — **Ford-Johnson algorithm** in C++
+Minishell — **shell written** in C
+  
+**Skills**  
+**AI & LLM** — RAG pipelines, LangChain, Replicate, OpenAI API, prompt engineering  
+**Vector & Data** — ChromaDB, FAISS, MySQL  
+**Systems** — C++ (98/11), Linux, Bash  
+**Infra** — Docker, FastAPI  
+  
+Reach me on <a href="https://linkedin.com/in/matthieu-gillieron-developer"><strong>LinkedIn</strong></a> or <a href="mailto:gillieron.matthieu@ik.me"><strong>email</strong></a>    
 
-## Welcome to my world! 👤
 
-<picture>
-   <img align="right" src="utils/images/gif/dev.png" width="33%">
-</picture>
+<div align="left">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&local&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=30&hide_border=false&bg_color=0D1117&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9"/>
+  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuGillieron&layout=compact&langs_count=8&theme=tokyonight&border_radius=30&hide_border=false&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9"/>
+</div>
 
-- 👨‍🎓 I am currently a student at 42 Lausanne  
-- ⚙️ I am passionate about both programming and mechanics  
-- ⚡️ My goal → create solutions that meet real needs  
+<br>  
 
-## Let's Collaborate! 🫵  
-
-- 🤖 Projects utilizing <strong>AI</strong> and <strong>ML</strong>  
-- 👨‍💻 Projects related to improving <strong>UI/UX</strong>  
-- 🚀 Stimulating and enriching projects!  
-- 🌐 Feel free to reach out on <a href="https://linkedin.com/in/matthieu-gillieron-developer"><strong>LinkedIn</strong></a> for a quick response  
-- 📧 You can also contact me via <a href="mailto:gillieron.matthieu@ik.me"><strong>email</strong></a> for any opportunities or collaborations  
-
-## 📖 Click to see!  
+## Quick links 
 
 <div align="center">
   <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
@@ -44,21 +48,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=25&center=true&v
 </div>
 
 <br>
-
-## How I’ve Been Breaking My Keyboard 📊  
-
-<div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&local&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=30&hide_border=false&bg_color=0D1117&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9"/>
-  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuGillieron&layout=compact&langs_count=8&theme=tokyonight&border_radius=30&hide_border=false&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9"/>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,docker,mysql,apple,linux" />
-  </a>
-</p>
 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
