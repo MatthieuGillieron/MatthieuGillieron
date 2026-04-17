@@ -24,15 +24,15 @@ Minishell — **shell written** in C
 ## Quick links
 <div align="left">
 <a href="https://github.com/MatthieuGillieron/hackathon" target="_blank">
-<img src="images/cadre5.png" alt="Hackathon" width="160px" />
+<img src="images/hackathon.png" alt="Hackathon" width="160px" />
 </a>
 <a href="https://github.com/MatthieuGillieron/game_jam" target="_blank">
-<img src="images/cadre3.png" alt="Game Jam" width="160px" />
+<img src="images/jam.png" alt="Game Jam" width="160px" />
 </a>
 <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
-<img src="images/cadre1.png" alt="42 Lausanne" width="160px" />
+<img src="images/42.png" alt="42 Lausanne" width="160px" />
 </a>
 <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-<img src="images/cadre2.png" alt="Projects" width="160px" />
+<img src="images/projects.png" alt="Projects" width="160px" />
 </a>
 </div>
