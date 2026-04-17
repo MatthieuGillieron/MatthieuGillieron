@@ -13,8 +13,8 @@ I build **RAG pipelines**, **LLM integrations** and **automation tools**
 <br>
 
 <div align="left">
-<img width="34%" src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&local&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=30&hide_border=false&bg_color=0D1117&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9"/>
-<img width="22%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuGillieron&layout=compact&langs_count=8&theme=tokyonight&border_radius=30&hide_border=false&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9"/>
+<img width="36%" src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&local&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=30&hide_border=false&bg_color=0D1117&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9"/>
+<img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuGillieron&layout=compact&langs_count=8&theme=tokyonight&border_radius=30&hide_border=false&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9"/>
 </div>
 
 <br>
