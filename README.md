@@ -1,35 +1,41 @@
-## About me
+```About me```  
+Student @ 42 Lausanne  
+Focused on building reliable AI systems (RAG, LLM integration, automation)  
+Seeking internship or junior position in AI / software engineering }  
 
-Student @ **42 Lausanne**   
-I build **RAG pipelines**, **LLM integrations** and **automation tools**  
-**Won 2 hackathons** (Infomaniak, AI Innovation Lab)  
-**Creator** of Wizlean — AI-powered LinkedIn SaaS
+```Highlights```  
+Won both hackathons I participated in (Infomaniak, AI Innovation Lab)  
+Built **[Wizlean](https://wizlean.com)**, a LinkedIn automation tool using AI  
+Developed and deployed multiple RAG-based applications  
 
-**Skills**  
-**Languages →** Python, C, C++  
-**AI →** RAG pipelines, LangChain, Replicate, HuggingFace, OpenAI API  
-**Infra →** Docker, FastAPI, Linux, Bash  
+```Profile```  
+Design and implementation of **RAG pipelines**  
+Integration of **LLMs into real-world applications**  
+Development of **automation tools** to improve workflows  
+Strong backend and low-level foundation (C, C++, Python)  
 
-<br>
+```Projects```  
+[Wizlean](https://wizlean.com) → AI tool for LinkedIn content automation  
+[Portfolio](https://gillieron.dev) → Retrieval-based chatbot connected to a portfolio  
+[42 Shcool](https://github.com/MatthieuGillieron/cursus) → Algorithms, memory management, system programming  ( C / C++)  
 
-<div align="left">
-<img width="36%" src="https://github-readme-stats.vercel.app/api?username=MatthieuGillieron&local&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=30&hide_border=false&bg_color=0D1117&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9"/>
-<img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuGillieron&layout=compact&langs_count=8&theme=tokyonight&border_radius=30&hide_border=false&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9"/>
-</div>
+```Skills```  
+Languages → Python · C · C++  
+AI / Data → RAG · LangChain · HuggingFace · OpenAI API · Replicate  
+Infrastructure → Docker · FastAPI · Linux · Bash  
 
-<br>
 
 ## Quick links
 <div align="left">
 <a href="https://github.com/MatthieuGillieron/hackathon" target="_blank">
-<img src="images/hackathon.png" alt="Hackathon" width="160px" />
+<img src="images/hackathon.png" alt="Hackathon" width="120px" />
 </a>
 <a href="https://github.com/MatthieuGillieron/game_jam" target="_blank">
-<img src="images/jam.png" alt="Game Jam" width="160px" />
+<img src="images/jam.png" alt="Game Jam" width="120px" />
 </a>
 <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
-<img src="images/42.png" alt="42 Lausanne" width="160px" />
+<img src="images/42.png" alt="42 Lausanne" width="120px" />
 </a>
 <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-<img src="images/projects.png" alt="Projects" width="160px" />
+<img src="images/projects.png" alt="Projects" width="120px" />
 </a>
