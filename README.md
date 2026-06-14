@@ -39,3 +39,4 @@ Infrastructure → Docker · FastAPI · Linux · Bash
 <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
 <img src="images/projects.webp" alt="Projects" width="120px" />
 </a>
+</div>
