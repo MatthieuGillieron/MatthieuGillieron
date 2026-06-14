@@ -28,14 +28,14 @@ Infrastructure → Docker · FastAPI · Linux · Bash
 ## Quick links
 <div align="left">
 <a href="https://github.com/MatthieuGillieron/hackathon" target="_blank">
-<img src="images/hackathon.png" alt="Hackathon" width="120px" />
+<img src="images/hackathon.webp" alt="Hackathon" width="120px" />
 </a>
 <a href="https://github.com/MatthieuGillieron/game_jam" target="_blank">
-<img src="images/jam.png" alt="Game Jam" width="120px" />
+<img src="images/jam.webp" alt="Game Jam" width="120px" />
 </a>
 <a href="https://github.com/MatthieuGillieron/cursus" target="_blank">
-<img src="images/42.png" alt="42 Lausanne" width="120px" />
+<img src="images/42.webp" alt="42 Lausanne" width="120px" />
 </a>
 <a href="https://github.com/MatthieuGillieron/projetPersonnel" target="_blank">
-<img src="images/projects.png" alt="Projects" width="120px" />
+<img src="images/projects.webp" alt="Projects" width="120px" />
 </a>
